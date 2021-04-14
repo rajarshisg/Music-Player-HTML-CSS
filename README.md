@@ -14,3 +14,4 @@ https://github.com/rajarshisg/Music-Player-HTML-CSS/blob/main/Screenshots/IMG1.P
 
 https://github.com/rajarshisg/Music-Player-HTML-CSS/blob/main/Screenshots/IMG2.PNG
 
+https://raw.githubusercontent.com/rajarshisg/Music-Player-HTML-CSS/main/Screenshots/IMG3.PNG
