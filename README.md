@@ -12,3 +12,5 @@ Screenshots of the music player :-
 
 https://github.com/rajarshisg/Music-Player-HTML-CSS/blob/main/Screenshots/IMG1.PNG
 
+https://github.com/rajarshisg/Music-Player-HTML-CSS/blob/main/Screenshots/IMG2.PNG
+
