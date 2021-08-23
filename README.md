@@ -1,5 +1,5 @@
 # Music-Player-HTML-CSS
-In this project that I made while pursuing Web Development course from Coding Ninjas, I created the front-end design of a music player in HTML and CSS.
+In this project I created the front-end design of a music player in HTML and CSS.
 
 I have uploaded a total of 4 files here :-
 1. MusicPlayerHomePage.html - It consists of the Home Page's html code of the Music Player.
